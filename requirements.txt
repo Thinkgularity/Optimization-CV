@@ -1,0 +1,7 @@
+torch==2.3.0
+torchvision
+matplotlib
+numpy
+onnx
+onnxscript
+onnxruntime
