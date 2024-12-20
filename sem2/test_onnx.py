@@ -21,7 +21,8 @@ import onnxruntime
 print(onnxruntime.__version__)
 
 onnx_model_path = 'models/cifar_model.onnx'
-torch_model_path = 'models/cifar_weights.pth'
+torch_model_path = 'models/cifar_model.pth'
+
 
 batch_size = 1
 torch_input = torch.randn(batch_size, 3, 32, 32)

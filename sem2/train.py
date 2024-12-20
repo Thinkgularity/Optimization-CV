@@ -92,4 +92,4 @@ def train(optimizer_name="SGD"):
 
 
 if __name__ == "__main__":
-    train(optimizer_name="SGD")
+    train(optimizer_name="Adam")
