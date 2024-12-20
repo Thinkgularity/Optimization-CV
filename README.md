@@ -25,7 +25,8 @@ train.py: Этот файл предназначен для обучения н�
 
 На графике представлено изменение значения потерь (loss) по эпохам для обоих алгоритмов. 
 
-![image](https://github.com/user-attachments/assets/5aca40f4-9ad0-4cef-9faa-470f949a93b5)
+![result](https://github.com/user-attachments/assets/fe9c1487-c2bc-43d2-9465-8ace73d01b1b)
+
 
 
 ### Выводы
